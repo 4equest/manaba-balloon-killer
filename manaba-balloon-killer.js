@@ -23,6 +23,7 @@
             el => {
                 el.onclick = void 0
                 el.target = '_blank'
+                el.rel = 'noopener noreferrer'
                 const re = /link_iframe_balloon\?url=(.+)/
                 el.href = decodeURIComponent(el.href.match(re)[1])
             }
