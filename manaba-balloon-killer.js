@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         manaba balloon killer
 // @namespace    https://REPLACE ME/
-// @version      0.1
+// @version      0.2
 // @description  manabaからバルーン(外部のURL押したときに出てくるやつ)を消します。　自己責任で利用してください。
 // @author       4equest
 // @match        https://REPLACE ME/*
